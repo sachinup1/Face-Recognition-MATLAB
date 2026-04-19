@@ -1,13 +1,13 @@
 # Face Detection using MATLAB
 
-## 📌 Overview
+## Overview
 
 This project demonstrates a basic face detection system using MATLAB.
 It detects human faces in an image and draws bounding boxes with confidence scores.
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 * ROI labeling using MATLAB Image Labeler
 * Dataset creation with manually annotated faces
@@ -16,7 +16,7 @@ It detects human faces in an image and draws bounding boxes with confidence scor
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * MATLAB
 * Computer Vision Toolbox
@@ -24,7 +24,7 @@ It detects human faces in an image and draws bounding boxes with confidence scor
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Face-Detection-MATLAB/
@@ -37,7 +37,7 @@ Face-Detection-MATLAB/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open MATLAB
 2. Run `face_detection_main.m`
@@ -46,20 +46,20 @@ Face-Detection-MATLAB/
 
 ---
 
-## 📊 Results
+## Results
 
 ![Output](results/detected_output.jpg)
 
 ---
 
-## 🤝 Contributors
+## Contributors
 
 * Sachin Upadhyay
 * Nenavath Prakash
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * CNN-based face detection
 * Real-time webcam detection
@@ -67,6 +67,6 @@ Face-Detection-MATLAB/
 
 ---
 
-## 📌 Note
+## Note
 
 This project is a basic implementation for learning computer vision concepts.
